@@ -1,6 +1,6 @@
 #owner: Alex Gandara
 #contact: alex@alexgan.net
-#linkedin: xyz
+#linkedin: https://www.linkedin.com/in/alejandrogandaraalvarez/
 
 from telegram.ext import Updater, MessageHandler, Filters
 import logging
