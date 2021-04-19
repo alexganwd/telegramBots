@@ -4,7 +4,7 @@
 
 from telegram.ext import Updater, MessageHandler, Filters
 import logging
-from FastMoon import secrets
+import secrets
 import json
 import re
 #Defaulting to basic logging
