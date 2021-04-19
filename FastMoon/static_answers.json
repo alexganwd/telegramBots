@@ -1,0 +1,49 @@
+[{
+  "patterns": ["contract"],
+  "text": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
+},
+{
+  "patterns": ["how to buy","where to buy", "pancake", "pancakeswap", "how do I buy", "I want to buy","help me buy"],
+  "text": "Buy here: https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
+},
+{
+  "patterns": ["chart"],
+  "text": "https://poocoin.app/tokens/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
+},
+{
+  "patterns": ["coinmarketcap","cmc","coinmarket","cg","coingecko"],
+  "text": "Our applications for listing on coingecko, and CoinMarketCap were submitted on 02/04/2021, and are both still in progress."
+},
+{
+  "patterns": ["price"],
+  "text": "https://t.me/UniRocket_FASTMOON"
+},
+{
+  "patterns": ["website", "web"],
+  "text": "https://fastmoon.finance"
+},
+{
+  "patterns": ["audit", "is audit done", "audited"],
+  "text": "https://fastmoon.finance/audit1/"
+},
+{
+  "patterns": ["whitepaper"],
+  "text": "https://fastmoon.finance/whitepaper/"
+},
+{
+  "patterns": ["ownership"],
+  "text": "Ownership is renounced"
+},
+{
+  "patterns": ["should I shell", "I want to sell", "can I sell", "sellers get"],
+  "text": "SELLERS GET REKT!!!"
+},
+{
+  "patterns": ["are you not tired of poverty"],
+  "text": "sell and be poor forever"
+},
+{
+  "patterns":["slippage"],
+  "text": 8.8
+}
+]
