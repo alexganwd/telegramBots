@@ -39,11 +39,15 @@
   "text": "SELLERS GET REKT!!!"
 },
 {
+  "patterns": ["right.*price","good.*time.*buy","should.*buy","right.*time"],
+  "text": "Buy now! You won't see this price for much longer"
+},
+{
   "patterns": ["are you not tired of poverty"],
   "text": "sell and be poor forever"
 },
 {
-  "patterns":["slippage"],
-  "text": 8.8
+  "patterns": ["slippage"],
+  "text": "use a slippage between 8.8 and 11"
 }
 ]
