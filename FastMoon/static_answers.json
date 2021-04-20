@@ -7,7 +7,7 @@
   "text": "Buy here: https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
-  "patterns": ["chart"],
+  "patterns": ["chart", "/chart"],
   "text": "https://poocoin.app/tokens/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
@@ -15,7 +15,7 @@
   "text": "Our applications for listing on coingecko, and CoinMarketCap were submitted on 02/04/2021, and are both still in progress."
 },
 {
-  "patterns": ["price"],
+  "patterns": ["what.*price","/price"],
   "text": "https://t.me/UniRocket_FASTMOON"
 },
 {

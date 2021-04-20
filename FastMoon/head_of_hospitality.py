@@ -38,7 +38,7 @@ def automatic_static_replies(update, context):
 def main():
     updater = Updater(token=secrets.get_prod_token(), use_context=True)
     dp = updater.dispatcher
-    dp.add_handler(MessageHandler(Filters.text & ~Filters.command, automatic_static_replies))
+    dp.add_handler(MessageHandler(Filters.text, automatic_static_replies))
 
 
     #Polling al servidor de telegram
