@@ -32,7 +32,9 @@ def reload(update, context):
 
 def automatic_static_replies(update, context):
     text_msg = find_text_by_alias(update.message.text)
-    if text_msg != 404:
+    if update.message.forward_from_chat:
+        pass
+    elif text_msg != 404:
         context.bot.send_message(chat_id=update.effective_chat.id, text=text_msg, reply_to_message_id=update.message.message_id)
 
 def main():
