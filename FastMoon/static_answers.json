@@ -11,11 +11,11 @@
   "text": "https://poocoin.app/tokens/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
-  "patterns": ["when.*coinmarketcap","when.*cmc","when.*coinmarket","cg","coingecko"],
+  "patterns": ["when.*coinmarketcap","when.*cmc","when.*coinmarket"],
   "text": "Our applications for listing on CoinMarketCap was submitted on 02/04/2021, and It is still in progress. However we have a marketing company helping us to speed things up"
 },
 {
-  "patterns": ["listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko"],
+  "patterns": ["listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko","where can.*price"],
   "text": "https://www.coingecko.com/en/coins/fastmoon"
 },
 {
