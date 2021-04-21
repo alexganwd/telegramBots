@@ -15,7 +15,7 @@
   "text": "Our applications for listing on CoinMarketCap was submitted on 02/04/2021, and It is still in progress. However we have a marketing company helping us to speed things up"
 },
 {
-  "patterns": ["listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko","where can.*price"],
+  "patterns": ["cg.*link","coingecko.link","listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko","where can.*price"],
   "text": "https://www.coingecko.com/en/coins/fastmoon"
 },
 {
@@ -31,7 +31,7 @@
   "text": "https://fastmoon.finance/audit1/"
 },
 {
-  "patterns": ["whitepaper"],
+  "patterns": ["whitepaper", "white paper"],
   "text": "https://fastmoon.finance/whitepaper/"
 },
 {
