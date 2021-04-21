@@ -15,7 +15,7 @@
   "text": "Our applications for listing on CoinMarketCap was submitted on 02/04/2021, and It is still in progress. However we have a marketing company helping us to speed things up"
 },
 {
-  "patterns": ["cg.*link","coingecko.link","listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko","where can.*price"],
+  "patterns": ["cg.*link","coingecko.link","listed.*cg","listed.how*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko","where can.*price"],
   "text": "https://www.coingecko.com/en/coins/fastmoon"
 },
 {
@@ -36,11 +36,15 @@
 },
 {
   "patterns": ["ownership"],
-  "text": "Ownership is renounced"
+  "text": "Ownership is renounced: https://bscscan.com/tx/0x4ce9724b4e087bb1dc8ddf173d56b9dc2cde55506e9cc223ca1aa9389a1d56ca"
 },
 {
   "patterns": ["should I shell", "I want to sell", "can I sell", "sellers get"],
   "text": "SELLERS GET REKT!!!"
+},
+{
+  "patterns": ["liquidity"],
+  "text": "Liquidity Pool is burned: https://bscscan.com/tx/0xe3e2e79baae6f0c66ab92011a46e1addbb11b9039c6377f19c7f6b4f5e2139f0"
 },
 {
   "patterns": ["good.*price","right.*price","good.*time.*buy","should.*buy","right.*time"],
