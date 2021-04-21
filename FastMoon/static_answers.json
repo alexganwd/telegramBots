@@ -1,9 +1,9 @@
 [{
-  "patterns": ["contract"],
+  "patterns": ["contract","address"],
   "text": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
-  "patterns": ["how to buy","where to buy", "pancake", "pancakeswap", "how do I buy", "I want to buy","help me buy"],
+  "patterns": ["how.*buy","where to buy", "pancake.*link", "pancakeswap.*link", "how do I buy", "I want to buy","help me buy"],
   "text": "Buy here: https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
@@ -11,8 +11,12 @@
   "text": "https://poocoin.app/tokens/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
-  "patterns": ["coinmarketcap","cmc","coinmarket","cg","coingecko"],
-  "text": "Our applications for listing on coingecko, and CoinMarketCap were submitted on 02/04/2021, and are both still in progress."
+  "patterns": ["when.*coinmarketcap","when.*cmc","when.*coinmarket","cg","coingecko"],
+  "text": "Our applications for listing on CoinMarketCap was submitted on 02/04/2021, and It is still in progress. However we have a marketing company helping us to speed things up"
+},
+{
+  "patterns": ["listed.*cg","listed.*coingecko","listed.*coin.*gecko","when.*cg","when.*coingecko"],
+  "text": "https://www.coingecko.com/en/coins/fastmoon"
 },
 {
   "patterns": ["what.*price","/price"],
@@ -39,7 +43,7 @@
   "text": "SELLERS GET REKT!!!"
 },
 {
-  "patterns": ["right.*price","good.*time.*buy","should.*buy","right.*time"],
+  "patterns": ["good.*price","right.*price","good.*time.*buy","should.*buy","right.*time"],
   "text": "Buy now! You won't see this price for much longer"
 },
 {
