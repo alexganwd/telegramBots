@@ -36,7 +36,7 @@ def automatic_static_replies(update, context):
     if update.message.forward_from_chat:
         pass
     elif text_msg != 404:
-        context.bot.send_message(chat_id=update.effective_chat.id, text=text_msg, reply_to_message_id=update.message.message_id,parse_mode=telegram.ParseMode.MARKDOWN)
+        context.bot.send_message(chat_id=update.effective_chat.id, text=text_msg, reply_to_message_id=update.message.message_id,parse_mode=telegram.ParseMode.HTML)
 
 def main():
     updater = Updater(token=secrets.get_prod_token(), use_context=True)
