@@ -24,7 +24,7 @@
 },
 {
   "patterns": ["staking","stak"],
-  "text": "<b>How to stak Fastmoon?</b>\nFirst of all you need to buy Jazz tokens in pancakeswap using this contract <b>0x77F2a1E63054c45093abcB0B83f16a0CE79b7018<b>\n Finally go here: https://jazzdefi.com/pools \n and start staking Fastmoon. \n <b>2k$ will generate 1.5B fastmoon tokens.<b>"
+  "text": "<b>How to stak Fastmoon?</b><br>First of all you need to buy Jazz tokens in pancakeswap using this contract <b>0x77F2a1E63054c45093abcB0B83f16a0CE79b7018</b><br> Finally go here: https://jazzdefi.com/pools \n and start staking Fastmoon.<br> <b>2k$ will generate 1.5B fastmoon tokens.</b>"
 },
 {
   "patterns": ["website", "web"],
