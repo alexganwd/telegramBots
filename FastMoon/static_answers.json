@@ -7,7 +7,7 @@
   "text": "Buy here: https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
-  "patterns": ["pancake.*wrong.*value","pancakeswap.*value"],
+  "patterns": ["pancake.*wrong.*value","pancakeswap.*value","pancake.*issues","pancakeswap.*issues","pancake.*issue","pancake.*issues"],
   "text": "Due to some issues with pancacke earlier migration you might be seeing a wrong value, please move back to V1 to get the correct value. Check the following image as reference:\n https://t.me/FastMoonFinance/112410"
 },
 {
