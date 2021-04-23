@@ -32,7 +32,7 @@
 },
 {
     "patterns": ["marketing.*"],
-    "text": ["<b>Current ongoing marketing campaign</b>\n - 15000 USD marketing campaign has started, banners are now live. Youtube videos, reddit posts, twitters and telegram shills are coming. \n - Marketing is spread out on 4 weeks to prevent huge pumps and dumps. \n - Another 3000 usd has been paid to youtubers, especially in the russian, arabic and asian regions.\n - 5000 USD on poocoin ads where added yesterday.\n - 1000 USD on coingecko ads where added today. \n - Agency is helping us with CMC listing, they fast tracked our CG listing'"]
+    "text": "<b>Current ongoing marketing campaign</b>\n - 15000 USD marketing campaign has started, banners are now live. Youtube videos, reddit posts, twitters and telegram shills are coming. \n - Marketing is spread out on 4 weeks to prevent huge pumps and dumps. \n - Another 3000 usd has been paid to youtubers, especially in the russian, arabic and asian regions.\n - 5000 USD on poocoin ads where added yesterday.\n - 1000 USD on coingecko ads where added today. \n - Agency is helping us with CMC listing, they fast tracked our CG listing'"
 },
 {
   "patterns": ["audit", "is audit done", "audited"],
