@@ -7,6 +7,10 @@
   "text": "Buy here: https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
 },
 {
+  "patterns": ["pancake.*wrong.*value","pancakeswap.*value"],
+  "text": "Due to some issues with pancacke earlier migration, please make sure that you are using V1. See the following image as reference:\n https://t.me/FastMoonFinance/112410"
+},
+{
   "patterns": ["chart", "/chart"],
   "text": "https://dex.guru/token/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6-bsc"
 },
