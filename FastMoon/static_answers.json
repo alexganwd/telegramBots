@@ -8,7 +8,7 @@
 },
 {
   "patterns": ["pancake.*wrong.*value","pancakeswap.*value"],
-  "text": "Due to some issues with pancacke earlier migration, please make sure that you are using V1. See the following image as reference:\n https://t.me/FastMoonFinance/112410"
+  "text": "Due to some issues with pancacke earlier migration you might be seeing a wrong value, please move back to V1 to get the correct value. Check the following image as reference:\n https://t.me/FastMoonFinance/112410"
 },
 {
   "patterns": ["chart", "/chart"],
