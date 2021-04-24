@@ -24,7 +24,7 @@
 },
 {
   "patterns": ["what.*price","/price"],
-  "text": "https://t.me/UniRocket_FASTMOON"
+  "text": "https://t.me/FastMoonPrice"
 },
 {
   "patterns": ["staking","stake"],
