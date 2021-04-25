@@ -27,6 +27,10 @@
   "text": "https://t.me/FastMoonPrice"
 },
 {
+  "patterns": ["fastmoon.*indonesi","indo.*group","indonesian.*group"],
+  "text": "Did you know we have a group for the indonesian community? Please feel free to join it here:\n https://t.me/Fastmoonindonesia \n Our mods there are: \n<b>Budy Baswara</b>\n<b>Billy</b>"
+},
+{
   "patterns": ["staking","stake"],
   "text": "<b>What is staking?</b>\nStaking is the process of actively participating in transaction validation (similar to mining) and as payment for those validations you get Fastmoon tokens \n\n<b>How to stake Fastmoon?</b>\nFirst of all you need to buy Jazz tokens in pancakeswap using this contract <b>0x77F2a1E63054c45093abcB0B83f16a0CE79b7018</b>\n Finally go here: https://jazzdefi.com/pools \n and start staking Fastmoon.\n <b>2k$ will generate 1.5B fastmoon tokens per day.</b>"
 },
