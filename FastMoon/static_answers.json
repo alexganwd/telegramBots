@@ -69,5 +69,9 @@
 {
   "patterns": ["slippage"],
   "text": "use a slippage between 8.8 and 11"
+},
+{
+  "patterns": ["dollar value", "not show"],
+  "text": "Unfortunately, Trustwallet does not display the value correctly if the price of FastMoon has more than 8 decimals. So the price has to increase first so that the Trustwallet displayes the value correctly. \n\nYou can still see the actual amount of your money by looking at it in PancakeSwap."
 }
 ]
